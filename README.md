@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 # text in gray
 @@ text in purple (and bold)@@
 ```
-|        |            |    |
+|    a    |        b    | b   |
 | ------------- |:-------------:| -----:|
 |       | ![Kiage](./img/kiage_logo_sm.png "Kiage Logo")      |    |
 |  |       |     |
