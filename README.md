@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![Kiage](./img/kiage_logo.png "Kiage Logo")
+
+
+
 <!--
 **teamkiage/teamkiage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,5 +27,3 @@ Here are some ideas to get you started:
 # text in gray
 @@ text in purple (and bold)@@
 ```
-
-![Kiage](./img/kiage_logo.png "Kiage Logo")
