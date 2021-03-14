@@ -1,4 +1,4 @@
-![Kiage](./img/kiage_logo.png "Kiage Logo")
+![Kiage](./img/kiage_logo_sm.png "Kiage Logo")
 
 
 ### Hi there 👋
