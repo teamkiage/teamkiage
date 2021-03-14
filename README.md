@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 @@ text in purple (and bold)@@
 ```
 
-<h3 style="color:#ff0000">Danger</h3>
+[logo]: https://github.com/teamkiage/teamkiage/blob/main/img/kiage_logo.png"Logo Title Text 2"
