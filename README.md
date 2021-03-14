@@ -18,13 +18,19 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+```diff
+- text in red
++ text in green
+! Want to hear a coll idea for a game...?
+# text in gray
+@@ text in purple (and bold)@@
+```
+
 -->
 
 
 ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
+! Games that make you smile ...
++ form smiling people
+- that know no better ...
 ```
