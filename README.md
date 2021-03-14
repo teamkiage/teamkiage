@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 @@ text in purple (and bold)@@
 ```
 
-[logo]: https://github.com/teamkiage/teamkiage/blob/main/img/kiage_logo.png"Logo Title Text 2"
+![Kiage](./img/kiage_logo_a.png "Logo Title Text 1")
