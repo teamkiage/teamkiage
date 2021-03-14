@@ -1,5 +1,7 @@
-![Kiage](./img/kiage_logo_sm.png "Kiage Logo")
-
+|    M    |            | X   |
+| ------------- |:-------------:| -----:|
+|       | ![Kiage](./img/kiage_logo_sm.png "Kiage Logo")      |    |
+| U |   S    |  A  |
 
 ### Hi there 👋
 
@@ -26,7 +28,3 @@ Here are some ideas to get you started:
 # text in gray
 @@ text in purple (and bold)@@
 ```
-|    M    |            | X   |
-| ------------- |:-------------:| -----:|
-|       | ![Kiage](./img/kiage_logo_sm.png "Kiage Logo")      |    |
-| U |   S    |  A  |
