@@ -1,3 +1,6 @@
+![Kiage](./img/kiage_logo.png "Kiage Logo")
+
+
 ### Hi there 👋
 
 <!--
@@ -23,5 +26,3 @@ Here are some ideas to get you started:
 # text in gray
 @@ text in purple (and bold)@@
 ```
-
-![Kiage](./img/kiage_logo_a.png "Logo Title Text 1")
