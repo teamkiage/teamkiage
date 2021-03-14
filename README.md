@@ -1,7 +1,7 @@
-|    M    |            | X   |
+|    __M__    |            | __X__   |
 | ------------- |:-------------:| -----:|
 |       | ![Kiage](./img/kiage_logo_sm.png "Kiage Logo")      |    |
-| U |   S    |  A  |
+| __U__ |   __S__    |  __A__  |
 
 <!--
 **teamkiage/teamkiage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
