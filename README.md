@@ -26,3 +26,6 @@ Here are some ideas to get you started:
 # text in gray
 @@ text in purple (and bold)@@
 ```
+||M||
+|---|M|---|
+||||
